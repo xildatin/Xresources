@@ -1,0 +1,4 @@
+# XResources
+
+## Terminals
+* urxvt
